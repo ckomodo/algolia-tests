@@ -1,0 +1,12 @@
+body{
+    background-color: salmon;
+}
+.searchBox{
+    margin: 10px;
+    width: auto;
+}
+
+.searchBtn{
+    margin: 5px;
+
+}
